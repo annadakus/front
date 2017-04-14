@@ -10,4 +10,4 @@ Amaranth - http://www.fontsquirrel.com/fonts/amaranth
 PT Sans - http://www.fontsquirrel.com/fonts/PT-Sans
 
 
-[Результат(https://annadakus.github.io/Stellar/)] 
+[Результат](https://annadakus.github.io/Stellar/)
